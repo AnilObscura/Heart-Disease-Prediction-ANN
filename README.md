@@ -186,7 +186,7 @@ The correlation heatmap highlights relationships between different clinical feat
 
 Boxplots compare feature distributions between healthy patients and patients diagnosed with heart disease. The visualization indicates that patients with heart disease generally achieve a higher maximum heart rate.
 
-![EDA Boxplots](https://github.com/AnilObscura/Heart-Disease-Prediction-ANN/blob/0df6aee40cf363e9f17e33772771fba080f5f9a9/s3a.PNG)
+![EDA Boxplots](https://github.com/AnilObscura/Heart-Disease-Prediction-ANN/blob/782466ea9e60ad8a980836a1016d2947737744ed/s3a.PNG)
 ![EDA Boxplots](https://github.com/AnilObscura/Heart-Disease-Prediction-ANN/blob/0df6aee40cf363e9f17e33772771fba080f5f9a9/s3b.PNG)
 
 ---
