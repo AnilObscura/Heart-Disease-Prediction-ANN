@@ -170,7 +170,7 @@ The following visualizations provide deeper insight into the model's performance
 
 Training and validation curves over 100 epochs demonstrate successful model convergence. Minor fluctuations in validation accuracy indicate slight overfitting during training, while the final test performance remains strong.
 
-![Training Graphs](PASTE_IMAGE_LINK_HERE)
+![Training Graphs](https://github.com/AnilObscura/Heart-Disease-Prediction-ANN/blob/0df6aee40cf363e9f17e33772771fba080f5f9a9/s1.PNG)
 
 ---
 
@@ -178,7 +178,7 @@ Training and validation curves over 100 epochs demonstrate successful model conv
 
 The correlation heatmap highlights relationships between different clinical features. Variables such as **Chest Pain Type (`cp`)** and **Maximum Heart Rate (`thalach`)** show strong correlations with heart disease prediction.
 
-![Correlation Heatmap](PASTE_IMAGE_LINK_HERE)
+![Correlation Heatmap](https://github.com/AnilObscura/Heart-Disease-Prediction-ANN/blob/0df6aee40cf363e9f17e33772771fba080f5f9a9/s2.PNG)
 
 ---
 
@@ -186,7 +186,8 @@ The correlation heatmap highlights relationships between different clinical feat
 
 Boxplots compare feature distributions between healthy patients and patients diagnosed with heart disease. The visualization indicates that patients with heart disease generally achieve a higher maximum heart rate.
 
-![EDA Boxplots](PASTE_IMAGE_LINK_HERE)
+![EDA Boxplots](https://github.com/AnilObscura/Heart-Disease-Prediction-ANN/blob/0df6aee40cf363e9f17e33772771fba080f5f9a9/s3a.PNG)
+![EDA Boxplots](https://github.com/AnilObscura/Heart-Disease-Prediction-ANN/blob/0df6aee40cf363e9f17e33772771fba080f5f9a9/s3b.PNG)
 
 ---
 
@@ -196,7 +197,7 @@ The Receiver Operating Characteristic (ROC) Curve illustrates the model's classi
 
 With an **AUC score of 0.89**, the model demonstrates excellent classification performance.
 
-![ROC Curve](PASTE_IMAGE_LINK_HERE)
+![ROC Curve](https://github.com/AnilObscura/Heart-Disease-Prediction-ANN/blob/0df6aee40cf363e9f17e33772771fba080f5f9a9/s4.PNG)
 
 ---
 
